@@ -7,5 +7,27 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: <table style="width:100%">
+  <tr>
+    <th>FAST FACTS</th>
+    <th>BIRTH CHART</th>
+    <th>LUCKY SYMBOLS</th>
+  </tr>
+  <tr>
+    <td>MY BIRTHDAY IS DECEMBER 12, 1999</td>
+    <td>SUN SIGN, SAGITTARIUS</td>
+    <td>CENTAUR</td>
+  </tr>
+  <tr>
+    <td>MY FAVORITE FOOD IS SPAGHETTI!</td>
+    <td>RISING SIGN, GEMINI</td>
+    <td>RABBIT</td>
+  </tr>
+   <tr>
+    <td>MY FAVORITE MOVIE IS, 
+    THE PERKS OF BEING A WALLFLOWER</td>
+    <td>MOON SIGN, AQUARIUS</td>
+    <td>FOUR LEAF CLOVER</td>
+  </tr>
+</table>
 ---
