@@ -7,5 +7,6 @@ alt: image-alt
 start-date: January 2020
 school: Weber State University
 category: Student
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I am a student attending Weber State University, majoring in Computer Science, and minoring in Psychology. I have been attending this school since Spring 2020 and hope to graduate in Fall of 2024. After Weber State, I hope to go forward in my learning and attend the University of Utah to obtain a professional doctorate in Law. 
+
 ---
