@@ -13,6 +13,33 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+<table style="width:100%">
+  <tr>
+    <th>FAST FACTS</th>
+    <th>BIRTH CHART</th>
+    <th>LUCKY SYMBOLS</th>
+  </tr>
+  <tr>
+    <td>MY BIRTHDAY IS DECEMBER 12, 1999</td>
+    <td>SUN SIGN, SAGITTARIUS</td>
+    <td>CENTAUR</td>
+  </tr>
+  <tr>
+    <td>MY FAVORITE FOOD IS SPAGHETTI!</td>
+    <td>RISING SIGN, GEMINI</td>
+    <td>RABBIT</td>
+  </tr>
+   <tr>
+    <td>MY FAVORITE MOVIE IS, 
+    THE PERKS OF BEING A WALLFLOWER</td>
+    <td>MOON SIGN, AQUARIUS</td>
+    <td>FOUR LEAF CLOVER</td>
+  </tr>
+</table>
+
+
+
+
 # Contact form:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
