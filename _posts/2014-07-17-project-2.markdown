@@ -5,7 +5,7 @@ date: 2014-07-17
 img: cake.png
 alt: image-alt
 date: Since at least 2012.
-fandoms: Star Wars, Marvel, DC, Stranger Things, Adventure Time, Shameless, Shadow & Bone, The Walking Dead, The Last of Us, A Song of Ice and Fire, and many more!
+fandoms: Star Wars, Marvel, DC, Stranger Things, Adventure Time, Shameless, Shadow & Bone, The Walking Dead, The Last of Us, A Song of Ice and Fire/Game of Thrones, and many more!
 category: Personal Life
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I consider myself a big time nerd! I love joining fandoms and in my free time, spend way too much time fixated them. I love buying merch and going to comic con, and even just discussing my interests with my friends. Usually, most of my interests revolve around them, though I really do enjoy classic board games and true-crime tv shows/podcasts. My main fandom fixations are currently Star Wars, The Last of Us, and Game of Thrones.
 ---
