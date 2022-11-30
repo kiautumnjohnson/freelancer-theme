@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: nerdygirl.jpg
 alt: image-alt
 date: Since at least 2012.
 fandoms: Star Wars, Marvel, DC, Stranger Things, Adventure Time, Shameless, Shadow & Bone, The Walking Dead, The Last of Us, A Song of Ice and Fire/Game of Thrones, and many more!
